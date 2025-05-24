@@ -1,6 +1,6 @@
 # 🫧 Expo Floating Bubble
 
-[![npm version](https://badge.fury.io/js/expo-floating-bubble.svg)](https://badge.fury.io/js/expo-floating-bubble)
+[![npm version](https://img.shields.io/npm/v/expo-floating-bubble.svg)](https://www.npmjs.com/package/expo-floating-bubble)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com/)
 
