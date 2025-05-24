@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android", "web"],
+  "apple": {
+    "modules": ["ExpoFloatingBubbleModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.floatingbubble.ExpoFloatingBubbleModule"]
+  }
+}

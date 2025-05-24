@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "../build/plugin",
+    "rootDir": "./src",
+    "module": "CommonJS",
+    "target": "ES2019"
+  },
+  "include": ["src"]
+}
